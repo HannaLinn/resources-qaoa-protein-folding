@@ -1,7 +1,4 @@
-from cProfile import label
-import matplotlib.pyplot as plt
 import numpy as np
-
 from comparison_util import *
 
 def sort_after(reference, data):
